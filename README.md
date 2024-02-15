@@ -1,4 +1,4 @@
-# Belajar Git DE 2
+# PART 2 - Variable, Data Type, Operator
 
 Keterangan
 - problem1.py = Problem 1 - Program “Hello” + “Nama”
